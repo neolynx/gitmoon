@@ -3,6 +3,7 @@ var moons = [];
 
 init();
 moon( "green" );
+moon( "red" );
 animate();
 
 function moon( color )
